@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "obsidian.html#présentation",
+    "href": "obsidian.html#présentation",
+    "title": "Obsidian",
+    "section": "Présentation",
+    "text": "Présentation\n\nLogiciel de prise de notes au format Markdown\nLogiciel de gestion des connaissances personnelles (Personal Knowledge Management)\nPublié le 30 mars 2020 -&gt; V1 octobre 2022\nPas Open Source"
+  },
+  {
+    "objectID": "obsidian.html#markdown",
+    "href": "obsidian.html#markdown",
+    "title": "Obsidian",
+    "section": "Markdown",
+    "text": "Markdown\nLangage de balisage léger créé en 2004"
+  },
+  {
+    "objectID": "obsidian.html#objectifs",
+    "href": "obsidian.html#objectifs",
+    "title": "Obsidian",
+    "section": "Objectifs",
+    "text": "Objectifs\n\ncréer des liens internes entre les notes\nvisualiser les connexions sous forme de graphique\n\n\nobsidian graph"
+  },
+  {
+    "objectID": "obsidian.html#fonctions",
+    "href": "obsidian.html#fonctions",
+    "title": "Obsidian",
+    "section": "Fonctions",
+    "text": "Fonctions\n\n\n\n\n\ncanvas\n\n\n\n\n\n\nplugins"
+  },
+  {
+    "objectID": "obsidian.html#fonctions-payantes",
+    "href": "obsidian.html#fonctions-payantes",
+    "title": "Obsidian",
+    "section": "Fonctions payantes",
+    "text": "Fonctions payantes\n\nsynchronisation entre appareils\npublication sous forme de site (ex. : leur documentation)"
+  },
+  {
+    "objectID": "obsidian.html#syncthing",
+    "href": "obsidian.html#syncthing",
+    "title": "Obsidian",
+    "section": "Syncthing",
+    "text": "Syncthing\n\napplication de synchronisation de fichiers pair à pair\nopen source, multi-plateforme, pas de compte requis\nsécurité et intégrité des données au coeur de l’app\npremière publication fin 2013, dernière maj mars 2024"
+  },
+  {
+    "objectID": "obsidian.html#démonstration",
+    "href": "obsidian.html#démonstration",
+    "title": "Obsidian",
+    "section": "Démonstration",
+    "text": "Démonstration"
+  }
+]
