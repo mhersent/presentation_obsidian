@@ -4,7 +4,7 @@
     "href": "obsidian.html#présentation",
     "title": "Obsidian",
     "section": "Présentation",
-    "text": "Présentation\n\nLogiciel de prise de notes au format Markdown\nLogiciel de gestion des connaissances personnelles (Personal Knowledge Management)\nPublié le 30 mars 2020 -&gt; V1 octobre 2022\nPas Open Source"
+    "text": "Présentation\n\n\nLogiciel de prise de notes au format Markdown\nLogiciel de gestion des connaissances personnelles (Personal Knowledge Management)\nPublié le 30 mars 2020 -&gt; V1 octobre 2022\nPas Open Source\n\n\n\nhttps://obsidian.md"
   },
   {
     "objectID": "obsidian.html#markdown",
@@ -21,11 +21,11 @@
     "text": "Objectifs\n\ncréer des liens internes entre les notes\nvisualiser les connexions sous forme de graphique\n\n\nobsidian graph"
   },
   {
-    "objectID": "obsidian.html#fonctions",
-    "href": "obsidian.html#fonctions",
+    "objectID": "obsidian.html#fonctions-intégrées",
+    "href": "obsidian.html#fonctions-intégrées",
     "title": "Obsidian",
-    "section": "Fonctions",
-    "text": "Fonctions\n\n\n\n\n\ncanvas\n\n\n\n\n\n\nplugins"
+    "section": "Fonctions intégrées",
+    "text": "Fonctions intégrées\n\n\n\n\n\ncanvas\n\n\n\n\n\n\nplugins"
   },
   {
     "objectID": "obsidian.html#fonctions-payantes",
@@ -39,13 +39,13 @@
     "href": "obsidian.html#syncthing",
     "title": "Obsidian",
     "section": "Syncthing",
-    "text": "Syncthing\n\napplication de synchronisation de fichiers pair à pair\nopen source, multi-plateforme, pas de compte requis\nsécurité et intégrité des données au coeur de l’app\npremière publication fin 2013, dernière maj mars 2024"
+    "text": "Syncthing\n\napplication de synchronisation de fichiers pair à pair\n\n\n\nsécurité et intégrité des données au coeur de l’app\npremière publication fin 2013, dernière maj mars 2024\nopen source, multi-plateforme, pas de compte requis\n\n\n\nhttps://syncthing.net/"
   },
   {
-    "objectID": "obsidian.html#démonstration",
-    "href": "obsidian.html#démonstration",
+    "objectID": "obsidian.html#démonstration-dobsidian",
+    "href": "obsidian.html#démonstration-dobsidian",
     "title": "Obsidian",
-    "section": "Démonstration",
-    "text": "Démonstration"
+    "section": "Démonstration d’Obsidian",
+    "text": "Démonstration d’Obsidian"
   }
 ]

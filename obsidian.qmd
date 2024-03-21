@@ -1,0 +1,70 @@
+---
+title: "Obsidian"
+subtitle: "A short introduction"
+author: "Melvin Hersent"
+format: 
+    revealjs:
+        logo: images/obsidian-logo.svg
+---
+
+## Présentation
+
+::: {.incremental}
+- Logiciel de prise de notes au format [**Markdown**](#markdown)
+- Logiciel de gestion des connaissances personnelles (Personal Knowledge Management)
+- Publié le 30 mars 2020 -> V1 octobre 2022
+- **Pas** Open Source
+:::
+
+::: footer
+https://obsidian.md
+:::
+
+## Markdown
+
+Langage de balisage léger créé en 2004
+
+![](images/markdown.png){.absolute top=250}
+
+## Objectifs
+
+- créer des liens internes entre les notes
+- visualiser les connexions sous forme de graphique
+
+![obsidian graph](images/obsidian_graph.png)
+
+## Fonctions intégrées
+
+:::: {.columns .absolute top=150}
+
+::: {.column width="50%"}
+![canvas](images/obsidian_canvas.png)
+:::
+
+::: {.column width="50%"}
+![plugins](images/obsidian_plugins.png)
+:::
+
+::::
+
+## Fonctions payantes
+
+- synchronisation entre appareils
+- publication sous forme de site (ex. : leur [documentation](https://help.obsidian.md/Home){preview-link="true"})
+
+## Syncthing
+
+- application de synchronisation de fichiers pair à pair
+
+::: {.incremental}
+- sécurité et intégrité des données au coeur de l'app
+- première publication fin 2013, dernière maj mars 2024
+- open source, multi-plateforme, pas de compte requis
+:::
+
+
+::: footer
+https://syncthing.net/
+:::
+
+## Démonstration d'Obsidian
